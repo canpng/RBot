@@ -1,3 +1,3 @@
-4GB'a kadar Dosyaları destekler.
+4GB'a kadar dosyaları destekler.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hoqk4baz/DW-RENAMERBOT_TG.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/canpng/RenamerBot.git)
