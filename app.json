@@ -1,9 +1,9 @@
 
 {
 
-    "name": "D/W Renamer Bot",
+    "name": "Favour Renamer Bot",
 
-    "description": "Telegram Dosyalarını yeniden düzenlemek ve Adlandırmak için Renamer Bot ",
+    "description": "Telegram dosyalarını yeniden düzenlemek ve adlandırmak için oluşturuldu.",
 
     "keywords": [
 
@@ -17,7 +17,7 @@
 
     "repository": "https://github.com/lntechnical2/RENAMER_BOT_V3",
 
-    "success_url": "https://t.me/dwstoree",
+    "success_url": "https://t.me/applefavour",
 
     "env": {
 
@@ -101,7 +101,7 @@
 
       {
 
-        "url": "https://github.com/hoqk4baz/heroku-buildpack"
+        "url": "https://github.com/canpng/heroku-buildpack"
 
       },
 
