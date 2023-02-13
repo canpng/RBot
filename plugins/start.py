@@ -85,7 +85,7 @@ async def send_doc(client,message):
        	try:
        		await client.get_chat_member(update_channel, user_id)
        	except UserNotParticipant:
-       		await message.reply_text("**__kanalıma abone değilsin__** ",
+       		await message.reply_text("🇹🇷 Bu botu kullanabilmek için grubumuzun üyesi olmanız gerekiyor.\n 🇬🇧 You need to be a member of our group to use this bot. ",
        		reply_to_message_id = message.id,
        		reply_markup = InlineKeyboardMarkup(
        		[ [ InlineKeyboardButton("KANALIMIZ" ,url=f"https://t.me/{update_channel}") ]   ]))
